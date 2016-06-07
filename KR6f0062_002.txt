@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 362
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6f0062_T_002-0309c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -773,7 +773,7 @@
 當往生阿彌陀佛國。他方異國，第十一佛，名¶
 和羅那惟于蔡[跳-兆+蔡]，其國有萬二千菩薩，皆當¶
 往生阿彌陀佛國。他方異國，第十二佛，名沸¶
-霸圖耶蔡，其國有諸菩薩，無央數不可復計，¶
+[襾/(革*月)]圖耶蔡，其國有諸菩薩，無央數不可復計，¶
 皆阿惟越致，皆智慧勇猛，各供養無央數諸¶
 佛，以一時俱心願欲往，皆當生阿彌陀佛¶
 國。他方異國，第十三佛，名隨呵閱祇波多¶
